@@ -8,10 +8,10 @@
 
 ### Tecnologías que uso
 
-- **Lenguajes:** Python, R, SQL
-- **Herramientas y frameworks:** Pandas, Numpy, Scikit-learn, Jupyter, Git
-- **Bases de datos:** MySQL, PostgreSQL
-- **Análisis de datos:** Visualización con Matplotlib, Seaborn y Tableau
+- **Lenguaje:** Python, Bash
+- **Herramientas y/o frameworks:**Git, VSCode**
+- **Bases de datos:** MySQL, PostgreSQL**
+- **Análisis de datos:** Visualización con Matplotlib, Seaborn y Tableau**
 
 ---
 
