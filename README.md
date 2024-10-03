@@ -9,9 +9,9 @@
 ### Tecnologías que uso
 
 - **Lenguaje:** Python, Bash
-- **Herramientas y/o frameworks:**Git, VSCode**
-- **Bases de datos:** MySQL, PostgreSQL**
-- **Análisis de datos:** Visualización con Matplotlib, Seaborn y Tableau**
+- **Herramientas y/o frameworks:**Git, VSCode
+- **Bases de datos:** MySQL, PostgreSQL
+- **Análisis de datos:** Visualización con Matplotlib, Seaborn y Tableau
 
 ---
 
