@@ -1,7 +1,7 @@
 ### Acerca de mí
 
 - 🎓 Estudiante de **Ciencia de Datos**
-- 💻 Interesado en la programación, el análisis de datos y **el aprendizaje automático**.
+- 💻 Interesado en la **programación, el análisis de datos** y **el aprendizaje automático**.
 - ✝️ **Cristiano**, con un fuerte compromiso con mi fe y valores.
 
 ---
